@@ -1,0 +1,34 @@
+STEPS TO ACTIVATE THE WINDOWS.
+
+PLEASE RUN IT IN ADMINISTRATOR MODE FOR FURTHER ACTIVATION OF WINDOWS.
+
+STEP 1 => Click on the Start button, search for "CMD" and run as administrator
+
+STEP 2 => Next, use the "slmgr /ipk yourlicensekey" command to install a license key
+
+Below is a list of Windows 10 license keys;
+
+yourlicensekey
+======================================================
+Home: TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
+Home N: 3KHY7-WNT83-DGQKR-F7HPR-844BM
+Home Single Language: 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
+Home Country Specific: PVMJN-6DFY6-9CCP6-7BKTT-D3WVR
+Professional: W269N-WFGWX-YVC9B-4J6C9-T83GX
+Professional N: MH37W-N47XK-V7XM9-C7227-GCQG9
+Education: NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
+Education N: 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
+Enterprise: NPPR9-FWDCX-D2C8J-H872K-2YT43
+Enterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
+
+STEP 3 => Now, Click on "Enter" to run the command
+
+The next thing to do is to set the KMS machine address.
+
+STEP 4 => Use "slmgr /skms kms8.msguides.com" to connect to my KMS server.
+
+STEP 5 => Finally, activate your windows by running the "slmgr /ato" in CMD.
+
+         
+==================================THANK YOU==================================================
+                          
