@@ -31,4 +31,4 @@ STEP 5 => Finally, activate your windows by running the "slmgr /ato" in CMD.
 
          
 ==================================THANK YOU==================================================
-                          
+                          ![](https://www.howtogeek.com/wp-content/uploads/2019/12/Windows-Logo-Lede-Edit.png)
