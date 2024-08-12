@@ -6,13 +6,13 @@ A guide on how to activate Windows 11 Pro for free.
 
 What you first need to do is open CMD (Command Prompt) as Administrator:
 
-Now press this keys on your keyboard:
-
-<h3> ctrl+shift+enter </h3>
+Now press these keys on your keyboard: <b>cmd</b> on the search bar.
 
 Now you have something like this:
 
-<img width="350" alt="windows-uac-allow" src="https://github.com/user-attachments/assets/66fc19e9-38bc-455f-abae-793724c8b38d">
+<p align="center">
+  <br><img src="https://github.com/NiREvil/workers-cloudflare/blob/main/Other/pics/win1.png" width="480px">
+</p>
 
 Now, click on "yes".
 
